@@ -1,0 +1,137 @@
+body { /* Body */
+    
+    background-attachment: fixed;
+    background-image: url("../images/bg2.png");
+    font-family: Lucida Sans Unicode;
+    
+  }
+
+
+.navbar-brand{
+    
+    padding: 8.5px;
+    margin-left: 15px;
+    background-color: rgb(216, 215, 215);
+    text-align:center;
+    
+    border-radius: 10px;
+    width: 120px;
+}
+
+#nav2{ /* Second NAV element */
+    width: 1300px;
+    margin-left: 175px;
+    font-size: 20px;
+    color: black;
+    font-family:Lucida Sans Unicode;
+    
+    border:1px rgb(145, 142, 142);
+    border-radius: 10px;
+    
+}
+.barend{ /* MYsuru */
+    margin-left: 30px;
+}
+.main{ /* Carousel */
+    margin: 150px auto;
+    width: 1200px;
+    height: 500px;
+    border: px outset;
+    border-radius: 15px;
+
+}
+
+.content{ /* Description on Mysuru */
+    background-color: white;
+    border: 5px white ;
+    border-radius: 10px;
+    margin: 40px 40px; 
+    padding: 30px;
+    
+
+}
+
+pre{
+    font-size: 25px;
+    margin: 10px 50px;
+    background-color: rgb(218, 218, 218);
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    height: 155px;
+
+}
+h1{
+    margin: 0px 30px;
+    color: rgb(0, 0, 0);
+    font-family: comic sans ms;
+}
+p.mysuru{
+    margin: 10px 100px;
+    font-size: 30px;
+    height: 400px;
+    text-align: right;
+    
+    
+}
+h5{
+    
+    color: white;
+}
+h5.one{ /* H5 inside Carousel */
+    width: 250px;
+    margin-left: 300px;
+    background-color: rgba(255, 255, 255, 0.514);
+    color: black;
+    border: 1px rgba(255, 255, 255, 0.514) ;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+
+.col{ /* Cards */
+        margin: 20px 0px;
+        margin-left: 30px;
+        padding: 0px;
+
+    }
+.card-text{
+    max-width:100%;
+    margin: 0px;
+    color:white;
+
+}
+.card{ 
+    width: 400px;
+    height: 550px;
+    margin: 50px 10px  50px;
+    border: 7px outset;
+    background-color: black;
+}
+.recom{ /* Recommendations Page */
+    margin: 100px 50px;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid white;
+    border-radius: 10px;
+    padding: 20px;
+}
+#results {
+    display: none;
+  }
+  
+  #zoo,
+  #palace,
+  #garden,
+  #bird,
+  #lake,
+  #park,
+  #museum,
+  #coorg,
+  #bylakuppe {
+    display: none;
+  }
+.form-check-input{
+    margin-left: 100px;
+}
+.form-check-label{
+    margin-left: 150px;
+}
