@@ -7,10 +7,10 @@ what frameworks are and learned a few classes from bootstrap and applied it in o
 
 We have developed a website for the Mysuru Tourist Track.
 Technologies we've used :
-                  HTML
+       <pre>      HTML
                   CSS
                   JavaScript
-                  Framework - BOOTSTRAP
+                  Framework - BOOTSTRAP </pre>
 
 We developed a website, which displays information about tourist places in Mysuru.
 In the home page,
