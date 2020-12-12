@@ -6,6 +6,11 @@ This is our first time developing a website and participating in a hackathon. Du
 what frameworks are and learned a few classes from bootstrap and applied it in our project.
 
 We have developed a website for the Mysuru Tourist Track.
+Technologies we've used :
+                  HTML
+                  CSS
+                  JavaScript
+                  Framework - BOOTSTRAP
 
 We developed a website, which displays information about tourist places in Mysuru.
 In the home page,
