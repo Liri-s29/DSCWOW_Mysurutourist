@@ -5,9 +5,12 @@ There are two of us in our team: Srihari and Sabarish, we're both first year col
 This is our first time developing a website and participating in a hackathon. During the course of the hackathon, we got to know
 what frameworks are and learned a few classes from bootstrap and applied it in our project.
 
+We've hosted our website at the link below :
+<a href="https://liri-s29.github.io/newmoon.github.io/MYSURU%20TOURISM.html">https://liri-s29.github.io/newmoon.github.io/MYSURU%20TOURISM.html</a>
+
 We have developed a website for the Mysuru Tourist Track.
 Technologies we've used :
-     <pre>      HTML
+     <pre>HTML
                   CSS
                   JavaScript
                   Framework - BOOTSTRAP </pre>
