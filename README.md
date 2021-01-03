@@ -6,7 +6,7 @@ This is our first time developing a website and participating in a hackathon. Du
 what frameworks are and learned a few classes from bootstrap and applied it in our project.
 
 We've hosted our website at the link below :<br>
-<a href="https://liri-s29.github.io/newmoon.github.io/MYSURU%20TOURISM.html">https://liri-s29.github.io/newmoon.github.io/MYSURU%20TOURISM.html</a>
+<a href="MYSURU TOURISM.html">Click here to go to our site.</a>
 
 We have developed a website for the Mysuru Tourist Track.
 Technologies we've used :
