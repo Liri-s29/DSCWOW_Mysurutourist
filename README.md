@@ -1,6 +1,6 @@
 # DSCWOW_Mysurutourist
 We've hosted our website at the link below :<br>
-<a href="MYSURU TOURISM.html">Click here to go to our site.</a><br>
+<a href="index.html">Click here to go to our site.</a><br>
 Hello!
 This is team New Moon
 There are two of us in our team: Srihari and Sabarish, we're both first year college students. We are learning HTML and CSS.
